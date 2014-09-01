@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42c3ef77-b296-4a72-9e82-a04d5ed5cfa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/FirstOccurrenceAfterProvidedIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/IndexOfChar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/OccOfEachChar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArrayStartAndEndIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/StringConcatenation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixAddition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixAdditionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixMultiplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Training.iws" />
@@ -74,6 +74,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -83,100 +84,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OccOfEachChar.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/OccOfEachChar.java">
+      <file leaf-file-name="TransposeMatrix.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="11" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReturningCharSubArrayTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/ReturningCharSubArrayTest.java">
+      <file leaf-file-name="HashMapTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="23" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+            <state line="6" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2002">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#458#472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintingTheWord.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/StringOps/PrintingTheWord.java">
+      <file leaf-file-name="HashMapClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.51307595" vertical-offset="489" max-vertical-offset="1292">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubArraysFirstOccIndex.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="21" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+            <state line="15" column="12" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="891">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#379#393#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReturningCharSubArrayStartAndEndIndexTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/ReturningCharSubArrayStartAndEndIndexTest.java">
+      <file leaf-file-name="InsertionSort.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="54" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+            <state line="5" column="13" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReturningCharSubArrayStartAndEndIndex.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArrayStartAndEndIndex.java">
+      <file leaf-file-name="SelectionSort.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+            <state line="33" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubArraysFirstOccIndexTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexTest.java">
+      <file leaf-file-name="SortOperation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SortOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1088">
+            <state line="42" column="9" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1445">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaseConverter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="42" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35072815" vertical-offset="0" max-vertical-offset="824">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Environment/jdk1.6.0_29/src.zip!/java/text/SimpleDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="325" column="58" selection-start="13825" selection-end="13825" vertical-scroll-proportion="0.0" vertical-offset="4788" max-vertical-offset="36822">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransposeMatrixTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixMultiplicationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="39" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubArraysFirstOccIndexAfterGivenIndexTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndexTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubArraysFirstOccIndexAfterGivenIndex.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParentRunner.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/ParentRunner.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="54" selection-start="2960" selection-end="2987" vertical-scroll-proportion="-18.92" vertical-offset="462" max-vertical-offset="1088">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -196,15 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/First.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/insertionSort.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/angleBetweenHandsOfClock.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/mathConcepts/fiboRecursion2Test.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/fiboRecursion2.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/LogicalProblems/FizzBuzzProblemTest.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/mathConcepts/FiboRecursion2Test.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/LogicalProblems/CeilingCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/CeilingCalculator.java" />
         <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FiboRecursion2.java" />
         <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/FizzBuzzProblem.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/calculator/AngleBetweenHandsOfClockTest.java" />
@@ -245,8 +236,17 @@
         <option value="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndex.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndexTest.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexTest.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" />
         <option value="$PROJECT_DIR$/src/training/ideas/java/StringOps/PrintingTheWord.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixMultiplication.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixAdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixAddition.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/CollectionsTest/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java" />
       </list>
     </option>
   </component>
@@ -267,13 +267,10 @@
             <id />
           </State>
           <State>
-            <id>Abstraction issues</id>
-          </State>
-          <State>
-            <id>Android</id>
-          </State>
-          <State>
             <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
           </State>
           <State>
             <id>Assignment issues</id>
@@ -288,16 +285,7 @@
             <id>Class structure</id>
           </State>
           <State>
-            <id>Cloning issues</id>
-          </State>
-          <State>
-            <id>Code maturity issues</id>
-          </State>
-          <State>
             <id>Code style issues</id>
-          </State>
-          <State>
-            <id>Concurrency annotation issues</id>
           </State>
           <State>
             <id>Control FlowGroovy</id>
@@ -306,52 +294,28 @@
             <id>Control flow issues</id>
           </State>
           <State>
-            <id>Data flow issues</id>
-          </State>
-          <State>
-            <id>Data flow issuesGroovy</id>
+            <id>Cucumber</id>
           </State>
           <State>
             <id>Declaration redundancy</id>
           </State>
           <State>
-            <id>Declaration redundancyGroovy</id>
-          </State>
-          <State>
-            <id>DeclarationGroovy</id>
-          </State>
-          <State>
-            <id>Encapsulation issues</id>
-          </State>
-          <State>
             <id>Error handling</id>
-          </State>
-          <State>
-            <id>Error handlingGroovy</id>
           </State>
           <State>
             <id>Finalization issues</id>
           </State>
           <State>
-            <id>GPath inspectionsGroovy</id>
+            <id>General</id>
           </State>
           <State>
-            <id>General</id>
+            <id>Gradle</id>
           </State>
           <State>
             <id>Groovy</id>
           </State>
           <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>Imports</id>
-          </State>
-          <State>
             <id>Inheritance issues</id>
-          </State>
-          <State>
-            <id>Initialization issues</id>
           </State>
           <State>
             <id>IntelliJ IDEA Platform Inspections</id>
@@ -366,25 +330,19 @@
             <id>JUnit issues</id>
           </State>
           <State>
-            <id>Java language level issues</id>
-          </State>
-          <State>
             <id>Java language level migration aids</id>
-          </State>
-          <State>
-            <id>JavaBeans issues</id>
           </State>
           <State>
             <id>Javadoc issues</id>
           </State>
           <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
             <id>Logging issues</id>
           </State>
           <State>
-            <id>Manifest</id>
-          </State>
-          <State>
-            <id>Memory issues</id>
+            <id>Maven</id>
           </State>
           <State>
             <id>Method MetricsGroovy</id>
@@ -393,13 +351,10 @@
             <id>Method metrics</id>
           </State>
           <State>
-            <id>Naming ConventionsGroovy</id>
-          </State>
-          <State>
-            <id>Naming conventions</id>
-          </State>
-          <State>
             <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
           </State>
           <State>
             <id>Pattern Validation</id>
@@ -411,34 +366,19 @@
             <id>Plugin DevKit</id>
           </State>
           <State>
-            <id>Portability issues</id>
-          </State>
-          <State>
             <id>Potentially confusing code constructsGroovy</id>
           </State>
           <State>
             <id>Probable bugs</id>
           </State>
           <State>
-            <id>Probable bugsGroovy</id>
+            <id>Probable bugsGradle</id>
           </State>
           <State>
             <id>Properties Files</id>
           </State>
           <State>
-            <id>Resource management issues</id>
-          </State>
-          <State>
-            <id>Security issues</id>
-          </State>
-          <State>
             <id>Serialization issues</id>
-          </State>
-          <State>
-            <id>StyleGroovy</id>
-          </State>
-          <State>
-            <id>TestNG</id>
           </State>
           <State>
             <id>Threading issues</id>
@@ -453,12 +393,6 @@
             <id>Validity issuesGroovy</id>
           </State>
           <State>
-            <id>Verbose or redundant code constructs</id>
-          </State>
-          <State>
-            <id>Visibility issues</id>
-          </State>
-          <State>
             <id>XML</id>
           </State>
           <State>
@@ -467,15 +401,7 @@
           <State>
             <id>XSLT</id>
           </State>
-          <State>
-            <id>toString() issues</id>
-          </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Abstraction issues</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -587,6 +513,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="MultiDimensionalArrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mathConcepts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -653,6 +601,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Collections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="CharacterArrays" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -698,6 +668,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="StringOps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MultiDimensionalArrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -904,7 +914,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -917,26 +927,50 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/training/ideas/java" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\www\Training\lib" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="training.ideas.java.Collections" />
+      <recent name="training.ideas.java.MultiDimensionalArrays" />
       <recent name="training.ideas.java.CharacterArrays" />
       <recent name="training.ideas.java.mathConcepts" />
       <recent name="training.ideas.java.StringOperations" />
-      <recent name="training.ideas.java.calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintingTheWord">
-    <configuration default="false" name="ReturningCharSubArrayTest.sabArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HashMapTest.hashMapTest1">
+    <configuration default="false" name="TransposeMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.CharacterArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.CharacterArrays.ReturningCharSubArrayTest" />
-      <option name="METHOD_NAME" value="sabArrayTest" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.TransposeMatrixTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TransposeMatrixTest.transposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.TransposeMatrixTest" />
+      <option name="METHOD_NAME" value="transposeTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -952,13 +986,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MatrixAdditionTest.additionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.CharacterArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.CharacterArrays.SubArraysFirstOccIndexTest" />
-      <option name="METHOD_NAME" value="indexTestForSubArrayForWhenSubArrayNotPresent" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.MatrixAdditionTest" />
+      <option name="METHOD_NAME" value="additionTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -974,13 +1008,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="HashMapTest.hashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.CharacterArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.CharacterArrays.SubArraysFirstOccIndexTest" />
-      <option name="METHOD_NAME" value="indexTestForSubArrayForWhenSubArrayNotPresentf" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.Collections" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.Collections.HashMapTest" />
+      <option name="METHOD_NAME" value="hashMapTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -996,13 +1030,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentgf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="HashMapTest.hashMapTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.CharacterArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.CharacterArrays.SubArraysFirstOccIndexTest" />
-      <option name="METHOD_NAME" value="indexTestForSubArrayForWhenSubArrayNotPresentgf" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.Collections" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.Collections.HashMapTest" />
+      <option name="METHOD_NAME" value="hashMapTest1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1014,7 +1048,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1052,6 +1092,37 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1077,37 +1148,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1179,19 +1219,21 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.PrintingTheWord" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ReturningCharSubArrayTest.sabArrayTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresent" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentf" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentgf" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MatrixAdditionTest.additionTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ReturningCharSubArrayTest.sabArrayTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresent" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentgf" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SubArraysFirstOccIndexTest.indexTestForSubArrayForWhenSubArrayNotPresentf" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MatrixAdditionTest.additionTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1231,21 +1273,32 @@
       <created>1408600208157</created>
       <updated>1408600208157</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Character Array Assignments&#10;">
+      <created>1408600329659</created>
+      <updated>1408600329659</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Character Array Assignments&#10;">
+      <created>1408600382777</created>
+      <updated>1408600382777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="String Array Assignments&#10;">
+      <created>1408600452420</created>
+      <updated>1408600452420</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5609221" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56027555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1255,37 +1308,38 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.028271405" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23990306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09988519" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2835218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38231918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5609756" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5609221" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20650406" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20636663" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.028271405" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22844176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2253635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36553237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36260164" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1303,7 +1357,8 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="TrainingJava&#10;" />
     <MESSAGE value="Character Array Assignments&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Character Array Assignments&#10;" />
+    <MESSAGE value="String Array Assignments&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Array Assignments&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1313,74 +1368,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/decisions/FPLOSCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.45015576" vertical-offset="0" max-vertical-offset="642" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FibonacciRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/CeilingCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.43168077" vertical-offset="0" max-vertical-offset="827">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/LogicalProblems/CeilingCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="333" selection-end="333" vertical-scroll-proportion="0.28778717" vertical-offset="0" max-vertical-offset="827">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/mathConcepts/FibonacciRecursionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="63" selection-start="448" selection-end="448" vertical-scroll-proportion="0.34220073" vertical-offset="6" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/mathConcepts/FiboRecursion2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FiboRecursion2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/LogicalProblems/FizzBuzzProblemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="252" selection-end="252" vertical-scroll-proportion="0.23200993" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/calculator/AngleBetweenHandsOfClockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/AngleBetweenHandsOfClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="84" selection-start="458" selection-end="458" vertical-scroll-proportion="0.31637716" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/FizzBuzzProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="37" selection-start="568" selection-end="568" vertical-scroll-proportion="0.44292805" vertical-offset="0" max-vertical-offset="806">
@@ -1399,30 +1386,22 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/notification/Failure.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="311" selection-end="311" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="10" column="11" selection-start="311" selection-end="311" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="476" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="490" selection-end="490" vertical-scroll-proportion="0.3321492" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
+        <state line="12" column="16" selection-start="490" selection-end="490" vertical-scroll-proportion="0.3321492" vertical-offset="0" max-vertical-offset="563" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/notification/RunNotifier.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.30550623" vertical-offset="219" max-vertical-offset="782">
-          <folding />
-        </state>
+        <state line="24" column="16" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.30550623" vertical-offset="219" max-vertical-offset="782" />
       </provider>
     </entry>
     <entry file="jar://C:/Environment/jdk1.6.0_29/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1933" column="0" selection-start="73899" selection-end="73899" vertical-scroll-proportion="0.18062398" vertical-offset="32479" max-vertical-offset="50864">
-          <folding />
-        </state>
+        <state line="1933" column="0" selection-start="73899" selection-end="73899" vertical-scroll-proportion="0.18062398" vertical-offset="32479" max-vertical-offset="50864" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FibonacciSeries.java">
@@ -1436,7 +1415,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="3" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1450,30 +1429,24 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="0" selection-start="4894" selection-end="4894" vertical-scroll-proportion="-4.4" vertical-offset="1403" max-vertical-offset="2159">
-          <folding />
-        </state>
+        <state line="90" column="0" selection-start="4894" selection-end="4894" vertical-scroll-proportion="-4.4" vertical-offset="1403" max-vertical-offset="2159" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/ComparisonCriteria.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="746" selection-end="746" vertical-scroll-proportion="-9.2" vertical-offset="25" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="746" selection-end="746" vertical-scroll-proportion="-9.2" vertical-offset="25" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/JUnitCore.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-2.12" vertical-offset="440" max-vertical-offset="731">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-2.12" vertical-offset="440" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/StringOperations/StringCombinationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="1003">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1506,63 +1479,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SortOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="41" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-4.16" vertical-offset="66" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-4.16" vertical-offset="66" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1547">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="291" selection-end="291" vertical-scroll-proportion="0.4405797" vertical-offset="120" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1547" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/CaseConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="5" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.90710384" vertical-offset="501" max-vertical-offset="1292">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="400" selection-end="400" vertical-scroll-proportion="0.27843803" vertical-offset="142" max-vertical-offset="731">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/FirstOccurrenceAfterProvidedIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="48" selection-start="135" selection-end="135" vertical-scroll-proportion="0.23224044" vertical-offset="0" max-vertical-offset="510">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1570,7 +1502,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="5" selection-start="1020" selection-end="1020" vertical-scroll-proportion="1.8114754" vertical-offset="0" max-vertical-offset="1122">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1579,15 +1511,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="51" selection-start="491" selection-end="491" vertical-scroll-proportion="0.2103825" vertical-offset="331" max-vertical-offset="1020">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/IndexOfChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="86" selection-end="86" vertical-scroll-proportion="0.18579236" vertical-offset="0" max-vertical-offset="510">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1609,38 +1534,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="54" selection-start="2960" selection-end="2987" vertical-scroll-proportion="-18.92" vertical-offset="462" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/OccOfEachChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="56" column="54" selection-start="2960" selection-end="2987" vertical-scroll-proportion="-18.92" vertical-offset="462" max-vertical-offset="1088" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndexTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1651,43 +1560,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexTest.java">
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/StringOps/PrintingTheWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1088">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="11" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArrayStartAndEndIndex.java">
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/OccOfEachChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+        <state line="19" column="9" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/IndexOfChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/FirstOccurrenceAfterProvidedIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="21" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+        <state line="25" column="12" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArrayStartAndEndIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/ReturningCharSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1088">
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/ReturningCharSubArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state line="19" column="92" selection-start="385" selection-end="470" vertical-scroll-proportion="0.3831554" vertical-offset="0" max-vertical-offset="952">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="96" selection-start="592" selection-end="592" vertical-scroll-proportion="0.42259887" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="36" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding>
+            <marker date="1409030193646" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixAdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/StringOps/PrintingTheWord.java">
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.51307595" vertical-offset="489" max-vertical-offset="1292">
+        <state line="10" column="39" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Environment/jdk1.6.0_29/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="325" column="58" selection-start="13825" selection-end="13825" vertical-scroll-proportion="0.0" vertical-offset="4788" max-vertical-offset="36822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2002">
+          <folding>
+            <element signature="e#458#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="891">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SortOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="9" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="42" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35072815" vertical-offset="0" max-vertical-offset="824">
           <folding />
         </state>
       </provider>

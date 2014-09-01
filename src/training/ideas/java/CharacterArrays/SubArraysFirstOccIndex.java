@@ -9,11 +9,7 @@ public class SubArraysFirstOccIndex {
 
     public static int firstOccIndexOfSubArray( char[] mainArray, char[] subArray) {
 
-     //   char[] mainArray={'s','d','f','g','a','b'};
-    //    char[] subArray={'a','b'}
 
-  //       for(int i=0;i<mainArray.length;i++)
-     //  {
 
         int lastIndexOfSubArray=subArray.length-1;
            for(int j=0;j<mainArray.length&&lastIndexOfSubArray<mainArray.length;j++)
@@ -28,7 +24,7 @@ public class SubArraysFirstOccIndex {
                }
 
            }
-   //   }
+
         return -1;
     }
 
