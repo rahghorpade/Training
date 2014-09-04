@@ -10,40 +10,40 @@ import java.util.*;
  */
 public class FPLOSCalculator {
 
-    DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+
 
 
     public Map<Date, Map<String,String>> fplosDecicions(Set<Date> setOfOccupancyDates, Map<Date,List<Double>> lrvMap, Map<String, Double> rateSpectrumMap) {
 
         Map<Date, Map<String,String>> decision=new TreeMap<Date, Map<String, String>>();
 
-        Map<String,String> rateDecision=null;
+
         for(Date D1:setOfOccupancyDates)
         {
 
-            rateDecision=new HashMap<String, String>();
+            Map<String,String> rateDecision=new HashMap<String, String>();
             //double rate=10.52;
             List<Double> lrvList= lrvMap.get(D1);
             //Iterator entries = rateSpectrumMap.entrySet().iterator();
             //Iterator lrvEntries = lrvMap.entrySet().iterator();
 
             Set<String> rateCode= rateSpectrumMap.keySet();
-            for (String rateCode1:rateCode )
+            for (String everyRateCode:rateCode )
             {
-                double rateCodeValue=  rateSpectrumMap.get(rateCode1);
+                double rateCodeValue=  rateSpectrumMap.get(everyRateCode);
                 String pattern="";
 
                 //while (entries.hasNext()) {
 
 
                 double sumLRV = 0;
-                int LOScount=1;
+                int LOSCount=1;
 
                 for(Double currentLRV : lrvList)
                 {
                     sumLRV = sumLRV + currentLRV;
 
-                    if((rateCodeValue * LOScount) >= sumLRV){
+                    if((rateCodeValue * LOSCount) >= sumLRV){
                         //  System.out.print("Y");
                         pattern=pattern+"Y";
                     }
@@ -53,12 +53,12 @@ public class FPLOSCalculator {
                         pattern=pattern+"N";
                     }
 
-                    LOScount++;
+                    LOSCount++;
                 }
 
 
 
-                rateDecision.put(rateCode1, pattern);
+                rateDecision.put(everyRateCode,pattern);
             }
             decision.put(D1,rateDecision);
             //}

@@ -15,15 +15,13 @@ public class FPLOSCalculatorTest {
 
 
     @Test
-    public void testAdvanced() throws Exception
+    public void FPLOSDecision() throws Exception
     {
 
 
 
 
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
-
-
 
 
         Map<Date,List<Double>> LRVMap = new HashMap<Date,List<Double>>();
@@ -50,7 +48,26 @@ public class FPLOSCalculatorTest {
         FPLOSDecision.put(df.parse("2010-10-10"),RateCodeWiseDecision);
 
         RateCodeWiseDecision.put("RATE2","NNNNNNN");
+        FPLOSDecision.put(df.parse("2010-10-10"),RateCodeWiseDecision);
+
+        RateCodeWiseDecision.put("RATE3","YYYYYYY");
+        FPLOSDecision.put(df.parse("2010-10-10"),RateCodeWiseDecision);
+
+
+        RateCodeWiseDecision.put("RATE1","YYYYYYY");
         FPLOSDecision.put(df.parse("2010-10-11"),RateCodeWiseDecision);
+
+        RateCodeWiseDecision.put("RATE2","NNNNNNN");
+        FPLOSDecision.put(df.parse("2010-10-11"),RateCodeWiseDecision);
+
+        RateCodeWiseDecision.put("RATE3","YYYYYYY");
+        FPLOSDecision.put(df.parse("2010-10-11"),RateCodeWiseDecision);
+
+        RateCodeWiseDecision.put("RATE1","YYYYYYY");
+        FPLOSDecision.put(df.parse("2010-10-12"),RateCodeWiseDecision);
+
+        RateCodeWiseDecision.put("RATE2","NNNNNNN");
+        FPLOSDecision.put(df.parse("2010-10-12"),RateCodeWiseDecision);
 
         RateCodeWiseDecision.put("RATE3","YYYYYYY");
         FPLOSDecision.put(df.parse("2010-10-12"),RateCodeWiseDecision);
