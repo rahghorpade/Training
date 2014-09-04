@@ -13,11 +13,18 @@ import java.util.*;
 public class FPLOSCalculatorTest {
 
 
+
     @Test
     public void testAdvanced() throws Exception
     {
 
+
+
+
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd");
+
+
+
 
         Map<Date,List<Double>> LRVMap = new HashMap<Date,List<Double>>();
         Map<String,Double> RateSpectrumMap = new HashMap<String,Double>();
@@ -27,11 +34,11 @@ public class FPLOSCalculatorTest {
         setOfOccupancyDates.add(df.parse("2010-10-11"));
         setOfOccupancyDates.add(df.parse("2010-10-12"));
 
-        RateSpectrumMap.put("RATE1",400.0);
-        RateSpectrumMap.put("RATE2",20.0);
-        RateSpectrumMap.put("RATE3",600.0);
+        RateSpectrumMap.put("RATE1",400.00);
+        RateSpectrumMap.put("RATE2",20.00);
+        RateSpectrumMap.put("RATE3",600.00);
 
-        LRVMap.put(df.parse("2010-10-10"), Arrays.asList(100.0, 20.0, 30.0, 40.0, 50.0, 60.0,70.0));
+        LRVMap.put(df.parse("2010-10-10"), Arrays.asList(100.0, 20.0, 30.0, 40.0, 50.0, 60.0, 70.0));
         LRVMap.put(df.parse("2010-10-11"), Arrays.asList(100.0,20.0,30.0,40.0,50.0,60.0,70.0));
         LRVMap.put(df.parse("2010-10-12"), Arrays.asList(100.0,20.0,30.0,40.0,50.0,60.0,70.0));
 
@@ -42,17 +49,17 @@ public class FPLOSCalculatorTest {
         RateCodeWiseDecision.put("RATE1","YYYYYYY");
         FPLOSDecision.put(df.parse("2010-10-10"),RateCodeWiseDecision);
 
-        RateCodeWiseDecision.put("RATE2","NNNNNNY");
+        RateCodeWiseDecision.put("RATE2","NNNNNNN");
         FPLOSDecision.put(df.parse("2010-10-11"),RateCodeWiseDecision);
 
         RateCodeWiseDecision.put("RATE3","YYYYYYY");
         FPLOSDecision.put(df.parse("2010-10-12"),RateCodeWiseDecision);
 
 
-      // Map<Date, Map<String,String>> FPLOSDecision = new TreeMap<Date,Map<setOfOccupancyDates,RateSpectrumMap>>();
-      //  new FPLOSCalculator().fplosDecicions(setOfOccupancyDates,LRVMap, RateSpectrumMap);
+        // Map<Date, Map<String,String>> FPLOSDecision = new TreeMap<Date,Map<setOfOccupancyDates,RateSpectrumMap>>();
+        //  new FPLOSCalculator().fplosDecicions(setOfOccupancyDates,LRVMap, RateSpectrumMap);
 
-     Assert.assertEquals(FPLOSDecision, new FPLOSCalculator().fplosDecicions(setOfOccupancyDates,LRVMap, RateSpectrumMap));
+        Assert.assertEquals(FPLOSDecision, new FPLOSCalculator().fplosDecicions(setOfOccupancyDates,LRVMap,RateSpectrumMap));
 
 
 

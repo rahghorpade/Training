@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42c3ef77-b296-4a72-9e82-a04d5ed5cfa1" name="Default" comment="String Array Assignments&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java" />
+    <list default="true" id="42c3ef77-b296-4a72-9e82-a04d5ed5cfa1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java" afterPath="$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Training.iws" />
@@ -92,14 +92,14 @@
       <file leaf-file-name="FPLOSCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="43" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1190">
+            <state line="14" column="0" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1309">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#440#459#0" expanded="true" />
-                <element signature="e#519#534#0" expanded="true" />
-                <element signature="e#589#595#0" expanded="true" />
-                <element signature="e#1260#1287#0" expanded="true" />
-                <element signature="e#1351#1367#0" expanded="true" />
+                <element signature="e#447#466#0" expanded="true" />
+                <element signature="e#526#541#0" expanded="true" />
+                <element signature="e#596#602#0" expanded="true" />
+                <element signature="e#1271#1298#0" expanded="true" />
+                <element signature="e#1362#1378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,11 +108,10 @@
       <file leaf-file-name="FPLOSCalculator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.0582329" vertical-offset="0" max-vertical-offset="1513">
+            <state line="75" column="0" selection-start="1909" selection-end="1909" vertical-scroll-proportion="0.77710843" vertical-offset="888" max-vertical-offset="1479">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#478#505#0" expanded="true" />
-                <element signature="e#664#680#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -935,29 +934,7 @@
       <recent name="training.ideas.java.mathConcepts" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FPLOSCalculatorTest.testAdvanced">
-    <configuration default="false" name="TransposeMatrixTest.transposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.TransposeMatrixTest" />
-      <option name="METHOD_NAME" value="transposeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.FPLOSCalculatorTest">
     <configuration default="false" name="HashMapTest.hashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1043,6 +1020,34 @@
       <option name="PACKAGE_NAME" value="training.ideas.java.FPLOSCalculator" />
       <option name="MAIN_CLASS_NAME" value="training.ideas.java.FPLOSCalculator.FPLOSCalculatorTest" />
       <option name="METHOD_NAME" value="testAdvanced" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FPLOSCalculatorTest.FPLOSDecisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.FPLOSCalculator" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.FPLOSCalculator.FPLOSCalculatorTest" />
+      <option name="METHOD_NAME" value="FPLOSDecisions" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1227,19 +1232,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.PrintingTheWord" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.FPLOSDecisions" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.FPLOSDecisions" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1295,7 +1300,11 @@
       <created>1409548113297</created>
       <updated>1409548113297</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="FPLOSCalculator">
+      <created>1409805109819</created>
+      <updated>1409805109819</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1308,11 +1317,11 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42919868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4282434" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20526893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2043628" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.028271405" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1368,7 +1377,8 @@
     <MESSAGE value="TrainingJava&#10;" />
     <MESSAGE value="Character Array Assignments&#10;" />
     <MESSAGE value="String Array Assignments&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Array Assignments&#10;" />
+    <MESSAGE value="FPLOSCalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="FPLOSCalculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1748,25 +1758,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="43" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1190">
+        <state line="14" column="0" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1309">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#440#459#0" expanded="true" />
-            <element signature="e#519#534#0" expanded="true" />
-            <element signature="e#589#595#0" expanded="true" />
-            <element signature="e#1260#1287#0" expanded="true" />
-            <element signature="e#1351#1367#0" expanded="true" />
+            <element signature="e#447#466#0" expanded="true" />
+            <element signature="e#526#541#0" expanded="true" />
+            <element signature="e#596#602#0" expanded="true" />
+            <element signature="e#1271#1298#0" expanded="true" />
+            <element signature="e#1362#1378#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.0582329" vertical-offset="0" max-vertical-offset="1513">
+        <state line="75" column="0" selection-start="1909" selection-end="1909" vertical-scroll-proportion="0.77710843" vertical-offset="888" max-vertical-offset="1479">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#478#505#0" expanded="true" />
-            <element signature="e#664#680#0" expanded="true" />
           </folding>
         </state>
       </provider>
