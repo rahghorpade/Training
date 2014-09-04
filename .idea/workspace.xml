@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42c3ef77-b296-4a72-9e82-a04d5ed5cfa1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixAddition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixAdditionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/MatrixMultiplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" afterPath="$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/SubArraysFirstOccIndex.java" />
+    <list default="true" id="42c3ef77-b296-4a72-9e82-a04d5ed5cfa1" name="Default" comment="String Array Assignments&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Training.iws" />
@@ -84,21 +77,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TransposeMatrix.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/MultiDimensionalArrays/TransposeMatrix.java">
+      <file leaf-file-name="HashMapTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
-              <folding />
+            <state line="23" column="0" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="2002">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#458#472#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
+      <file leaf-file-name="FPLOSCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2002">
+            <state line="29" column="43" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1190">
               <folding>
-                <element signature="e#458#472#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#440#459#0" expanded="true" />
+                <element signature="e#519#534#0" expanded="true" />
+                <element signature="e#589#595#0" expanded="true" />
+                <element signature="e#1260#1287#0" expanded="true" />
+                <element signature="e#1351#1367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FPLOSCalculator.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.0582329" vertical-offset="0" max-vertical-offset="1513">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#505#0" expanded="true" />
+                <element signature="e#664#680#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,76 +121,8 @@
       <file leaf-file-name="HashMapClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="891">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#379#393#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertionSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/InsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+            <state line="13" column="21" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortOperation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/Sorting/SortOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="9" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1445">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaseConverter.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35072815" vertical-offset="0" max-vertical-offset="824">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Environment/jdk1.6.0_29/src.zip!/java/text/SimpleDateFormat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="325" column="58" selection-start="13825" selection-end="13825" vertical-scroll-proportion="0.0" vertical-offset="4788" max-vertical-offset="36822">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransposeMatrixTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/TransposeMatrixTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatrixMultiplicationTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/MultiDimensionalArrays/MatrixMultiplicationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="39" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -196,11 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FiboRecursion2.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/FizzBuzzProblem.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/calculator/AngleBetweenHandsOfClockTest.java" />
-        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/AngleBetweenHandsOfClock.java" />
-        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/StringOperations/StringCombination.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/StringOperationsTest/StringCombinations.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/StringOperationsTest/StringCombinationsTest.java" />
         <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/StringOperations/StringCombination.java" />
@@ -247,6 +188,11 @@
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/CollectionsTest/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java" />
         <option value="$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/FPLOSDryRun.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/calculator/calculator/FPLOSCalculator.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/calculator/FPLOSCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java" />
+        <option value="$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -579,6 +525,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="FPLOSCalculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testsrc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="decisions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -708,6 +676,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FPLOSCalculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Collections" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -925,7 +919,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistory" value="" />
+    <property name="SearchEverywhereHistory" value="o" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/training/ideas/java" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
@@ -934,36 +928,14 @@
       <recent name="C:\www\Training\lib" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="training.ideas.java.FPLOSCalculator" />
       <recent name="training.ideas.java.Collections" />
       <recent name="training.ideas.java.MultiDimensionalArrays" />
       <recent name="training.ideas.java.CharacterArrays" />
       <recent name="training.ideas.java.mathConcepts" />
-      <recent name="training.ideas.java.StringOperations" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HashMapTest.hashMapTest1">
-    <configuration default="false" name="TransposeMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.TransposeMatrixTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.FPLOSCalculatorTest.testAdvanced">
     <configuration default="false" name="TransposeMatrixTest.transposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Training" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -971,28 +943,6 @@
       <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
       <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.TransposeMatrixTest" />
       <option name="METHOD_NAME" value="transposeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MatrixAdditionTest.additionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Training" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="training.ideas.java.MultiDimensionalArrays" />
-      <option name="MAIN_CLASS_NAME" value="training.ideas.java.MultiDimensionalArrays.MatrixAdditionTest" />
-      <option name="METHOD_NAME" value="additionTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1037,6 +987,62 @@
       <option name="PACKAGE_NAME" value="training.ideas.java.Collections" />
       <option name="MAIN_CLASS_NAME" value="training.ideas.java.Collections.HashMapTest" />
       <option name="METHOD_NAME" value="hashMapTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FPLOSCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.FPLOSCalculator" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.FPLOSCalculator.FPLOSCalculatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FPLOSCalculatorTest.testAdvanced" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Training" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="training.ideas.java.FPLOSCalculator" />
+      <option name="MAIN_CLASS_NAME" value="training.ideas.java.FPLOSCalculator.FPLOSCalculatorTest" />
+      <option name="METHOD_NAME" value="testAdvanced" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1221,19 +1227,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.PrintingTheWord" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MatrixAdditionTest.additionTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MatrixAdditionTest.additionTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest.testAdvanced" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FPLOSCalculatorTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest1" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.hashMapTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TransposeMatrixTest.transposeTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1285,7 +1291,11 @@
       <created>1408600452420</created>
       <updated>1408600452420</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="String Array Assignments&#10;">
+      <created>1409548113297</created>
+      <updated>1409548113297</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1298,18 +1308,18 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56027555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42919868" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20636663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20526893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.028271405" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2835218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38231918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2253635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3834673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1368,40 +1378,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/LogicalProblems/FizzBuzzProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="37" selection-start="568" selection-end="568" vertical-scroll-proportion="0.44292805" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Sorting/InsertionSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="47" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/notification/Failure.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="311" selection-end="311" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="476" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="490" selection-end="490" vertical-scroll-proportion="0.3321492" vertical-offset="0" max-vertical-offset="563" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/notification/RunNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.30550623" vertical-offset="219" max-vertical-offset="782" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Environment/jdk1.6.0_29/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1933" column="0" selection-start="73899" selection-end="73899" vertical-scroll-proportion="0.18062398" vertical-offset="32479" max-vertical-offset="50864" />
+        <state line="1933" column="0" selection-start="73899" selection-end="73899" vertical-scroll-proportion="0.18062398" vertical-offset="32479" max-vertical-offset="50864">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/calculator/mathConcepts/FibonacciSeries.java">
@@ -1435,11 +1416,6 @@
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/ComparisonCriteria.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="746" selection-end="746" vertical-scroll-proportion="-9.2" vertical-offset="25" max-vertical-offset="357" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/JUnitCore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1359" selection-end="1359" vertical-scroll-proportion="-2.12" vertical-offset="440" max-vertical-offset="731" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/StringOperations/StringCombinationsTest.java">
@@ -1477,16 +1453,6 @@
         <state line="97" column="0" selection-start="1765" selection-end="1765" vertical-scroll-proportion="0.0" vertical-offset="1581" max-vertical-offset="2822">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-4.16" vertical-offset="66" max-vertical-offset="289" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1547" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/CaseConverterTest.java">
@@ -1537,11 +1503,6 @@
             <element signature="imports" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="54" selection-start="2960" selection-end="2987" vertical-scroll-proportion="-18.92" vertical-offset="462" max-vertical-offset="1088" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/CharacterArrays/SubArraysFirstOccIndexAfterGivenIndexTest.java">
@@ -1656,7 +1617,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="33" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1665,7 +1626,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="39" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1688,25 +1649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="325" column="58" selection-start="13825" selection-end="13825" vertical-scroll-proportion="0.0" vertical-offset="4788" max-vertical-offset="36822">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2002">
-          <folding>
-            <element signature="e#458#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="891">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#393#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1733,8 +1675,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/training/ideas/java/CharacterArrays/CaseConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35072815" vertical-offset="0" max-vertical-offset="824">
+        <state line="9" column="16" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/decisions/FPLOSCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/Collections/HashMapClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="504" selection-end="504" vertical-scroll-proportion="-3.96" vertical-offset="105" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="489" selection-end="489" vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="35" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.3590604" vertical-offset="403" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="16" selection-start="2153" selection-end="2153" vertical-scroll-proportion="0.33221477" vertical-offset="564" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.8.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="332">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/Collections/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="2002">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#458#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsrc/training/ideas/java/FPLOSCalculator/FPLOSCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="43" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1190">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#440#459#0" expanded="true" />
+            <element signature="e#519#534#0" expanded="true" />
+            <element signature="e#589#595#0" expanded="true" />
+            <element signature="e#1260#1287#0" expanded="true" />
+            <element signature="e#1351#1367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training/ideas/java/FPLOSCalculator/FPLOSCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="1.0582329" vertical-offset="0" max-vertical-offset="1513">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#505#0" expanded="true" />
+            <element signature="e#664#680#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
